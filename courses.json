@@ -344,5 +344,22 @@
       "duration": "2h 30m"
     }
   ]
+},
+  {
+  "id": "fun-course",
+  "title": "Funny Course",
+  "description": "A fun and engaging beginner course.",
+  "category": "programming",
+  "level": "Beginner",
+  "instructor": "Feroz",
+  "featured": true,
+  "lessons": [
+    {
+      "id": "fun-1",
+      "title": "Lesson 1",
+      "videoId": "Wrx-iI022hY",
+      "duration": "11m"
+    }
+  ]
 }
 ]
