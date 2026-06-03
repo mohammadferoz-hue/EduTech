@@ -327,5 +327,22 @@
         "duration": "15m"
       }
     ]
-  }
+  },
+  {
+  "id": "html-beginner-shraddha",
+  "title": "HTML Beginner Course",
+  "description": "Learn HTML from scratch with Shradha Khapra (Apna College). Covers HTML tags, forms, tables, semantic HTML, and webpage creation.",
+  "category": "programming",
+  "level": "Beginner",
+  "instructor": "Shradha Khapra (Apna College)",
+  "featured": true,
+  "lessons": [
+    {
+      "id": "html-1",
+      "title": "HTML Tutorial for Beginners",
+      "videoId": "HcOc7P5BMi4",
+      "duration": "2h 30m"
+    }
+  ]
+}
 ]
