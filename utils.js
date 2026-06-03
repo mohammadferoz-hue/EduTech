@@ -43,7 +43,8 @@ function youtubeThumb(videoId) {
 }
 
 function youtubeEmbed(videoId) {
-  return `https://www.youtube.com/embed/${videoId}?rel=0&modestbranding=1`;
+  return `https://www.youtube.com/embed/${videoId}?rel=0&modestbranding=1 &
+  playsinline=0`;
 }
 
 function getCourseById(id) {
