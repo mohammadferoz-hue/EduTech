@@ -34,5 +34,11 @@
     "label": "Design",
     "icon": "🎨",
     "description": "UI/UX, graphics, and creative tools."
+  },
+  {
+    "id": "ForFun",
+    "label": "ForFun",
+    "icon":"😂",
+    "description":"VIDEO FOR FUN ONLY",
   }
 ]
